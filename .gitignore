@@ -131,5 +131,14 @@ dmypy.json
 # OSX File
 .DS_Store
 
+# VSCode Directory
+.vscode/
+
 # Original Project Directory
 orig/
+
+# Driver Directory
+driver/
+
+# Data Directory
+data/
